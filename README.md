@@ -1,4 +1,4 @@
-# MY STASK
+# MY STACK
  - JavaSkript, TypeSkript
  - React (Redux Saga, Hooks, Toolkit) d3.js, THREE.js
  - MaterialUI, ionic Capacitor Tailwind CSS, SCSS
